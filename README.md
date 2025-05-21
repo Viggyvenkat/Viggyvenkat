@@ -1,5 +1,4 @@
-- 🔭 Senior @ Rutgers University, New Brunswick
-- 📚 B.S. in Computer Science, Cogntive Science, and Mathematics
+- 🔭 M.S. in Biomedical Data Science @ Icahn School of Medicine from Mount Sinai
+- 📚 B.S. in Computer Science, Cogntive Science, and Mathematics from Rutgers University, New Brunswick
 - 🌱 Researcher at the De Laboratory @ Rutgers Cancer Institute of New Jersey
 - 🤔 Interested in working on Multi-Omics, Computational Biology Pipelines, Transcriptomics and Genomics
-
